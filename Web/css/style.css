@@ -81,6 +81,7 @@ img {
     box-sizing: border-box;
     font-size: 20px;
     font-style:normal;
+    outline: none;
 }
 
 #form-element p{
