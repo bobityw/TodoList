@@ -18,8 +18,8 @@
         <div id="right-side">
             <h1> Welcome !</h1>
             <div class="button-container">
-                <button id="login" onclick="window.location.href='login.html'"> Login</button>
-                <button id="sign in"onclick="window.location.href='sign-in.html'"> Sign up</button>
+                <button id="login" onclick="window.location.href='login.php'"> Login</button>
+                <button id="sign in"onclick="window.location.href='sign-in.php'"> Sign up</button>
             </div>
         </div>
     </body>
